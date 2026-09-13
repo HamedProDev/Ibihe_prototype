@@ -1,0 +1,10 @@
+{
+  "description": "Streamline project creation and management with an intuitive interface designed to boost productivity and simplify collaboration for teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
